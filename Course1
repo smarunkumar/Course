@@ -9,4 +9,10 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Arun Kumar SM
+EDA - Exploratory Data Analysis
+I have learned the basics of data analysis and the flow for Data Analysis goes as follows: 
+Data Sourcing, Data Cleaning, Univariate Analysis, Segmented Analysus, Bivariate Analysis and Derived metrics.
 
+Before data analysis starts, we need to clean data and make it compatible to begin the analysis. 
+We can get some insights from Univariate/Segmented/Bivariate/Derived metrics and based on the insights we may come up with a conclusion for the problem statement or might have more questions to the problem statement to get better clarity. 
